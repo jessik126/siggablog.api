@@ -1,0 +1,478 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Lucas Olsen",
+            "username": "crazycat998",
+            "email": "lucas.olsen@example.com",
+            "website": "lucasolsen.com"
+        },
+        {
+            "id": 2,
+            "name": "Isabella Jones",
+            "username": "greenswan376",
+            "email": "isabella.jones@example.com",
+            "website": "isabellajones.com"
+        },
+        {
+            "id": 3,
+            "name": "Victoire Caron",
+            "username": "bigelephant763",
+            "email": "victoire.caron@example.com",
+            "website": "victoirecaron.com"
+        },
+        {
+            "id": 4,
+            "name": "Phillippe Claire",
+            "username": "beautifulleopard635",
+            "email": "philippe.claire@example.com",
+            "website": "philippeclaire.com"
+        },
+        {
+            "id": 5,
+            "name": "Anna Williamson",
+            "username": "ticklishcat914",
+            "email": "anna.williamson@example.com",
+            "website": "anna.williamson.com"
+        },
+        {
+            "id": 6,
+            "name": "Neomi Van de Werken",
+            "username": "bluefish185",
+            "email": "neomi.vandewerken@example.com",
+            "website": "neomivandewerken.com"
+        },
+        {
+            "id": 7,
+            "name": "Madrid Castilla la Mancha",
+            "username": "sadzebra842",
+            "email": "aitor.crespo@example.com",
+            "website": "aitorcrespo.com"
+        },
+        {
+            "id": 8,
+            "name": "Melina Vicent",
+            "username": "goldenostrich206",
+            "email": "mélina.vincent@example.com",
+            "website": "melinavincent.com"
+        },
+        {
+            "id": 9,
+            "name": "Gül Alpugan",
+            "username": "lazybird888",
+            "email": "gül.alpuğan@example.com",
+            "website": "gülalpugan.com"
+        },
+        {
+            "id": 10,
+            "name": "Laura Nguyen",
+            "username": "lazycat728",
+            "email": "laura.nguyen@example.com",
+            "website": "lauranguyen.com"
+        }
+    ],
+    "albums": [
+        {
+            "id": 1,
+            "title": "Food",
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "title": "Trip",
+            "userId": 1
+        },
+        {
+            "id": 3,
+            "title": "Trip",
+            "userId": 2
+        },
+        {
+            "id": 4,
+            "title": "Cars",
+            "userId": 3
+        },
+        {
+            "id": 5,
+            "title": "Earth",
+            "userId": 4
+        },
+        {
+            "id": 6,
+            "title": "Jobs",
+            "userId": 5
+        },
+        {
+            "id": 7,
+            "title": "IT",
+            "userId": 5
+        },
+        {
+            "id": 8,
+            "title": "Companies",
+            "userId": 6
+        },
+        {
+            "id": 9,
+            "title": "Study",
+            "userId": 7
+        },
+        {
+            "id": 10,
+            "title": "University",
+            "userId": 8
+        },
+        {
+            "id": 11,
+            "title": "Fast Food",
+            "userId": 9
+        },
+        {
+            "id": 12,
+            "title": "House",
+            "userId": 9
+        },
+        {
+            "id": 13,
+            "title": "Linkedin",
+            "userId": 10
+        },
+        {
+            "id": 14,
+            "title": "Facebook",
+            "userId": 10
+        },
+        {
+            "id": 15,
+            "title": "Instagram",
+            "userId": 10
+        },
+        {
+            "id": 16,
+            "title": "Photos",
+            "userId": 10
+        },
+        {
+            "id": 17,
+            "title": "Hamburguers",
+            "userId": 10
+        },
+        {
+            "id": 18,
+            "title": "Party",
+            "userId": 10
+        },
+        {
+            "id": 19,
+            "title": "EUA",
+            "userId": 10
+        },
+        {
+            "id": 20,
+            "title": "Europe",
+            "userId": 10
+        },
+        {
+            "id": 21,
+            "title": "Asia",
+            "userId": 10
+        },
+        {
+            "id": 22,
+            "title": "Brazil",
+            "userId": 10
+        },
+        {
+            "id": 23,
+            "title": "Music",
+            "userId": 10
+        },
+        {
+            "id": 24,
+            "title": "Country",
+            "userId": 10
+        },
+        {
+            "id": 25,
+            "title": "Chicago",
+            "userId": 10
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "id aliquet risus feugiat in",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Tristique magna sit amet purus gravida quis blandit. Orci eu lobortis elementum nibh tellus molestie nunc non. Lorem sed risus ultricies tristique nulla aliquet enim tortor at.",
+            "albumId": 1
+        },
+        {
+            "id": 2,
+            "title": "in massa tempor nec feugiat",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque mauris pellentesque pulvinar pellentesque. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Nullam ac tortor vitae purus faucibus ornare suspendisse.",
+            "albumId": 1
+        },
+        {
+            "id": 3,
+            "title": "sit amet commodo nulla facilisi",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl pretium fusce id velit ut tortor pretium viverra suspendisse. Habitasse platea dictumst vestibulum rhoncus est pellentesque. Sed augue lacus viverra vitae congue eu consequat ac felis. Rhoncus mattis rhoncus urna neque viverra justo nec.",
+            "albumId": 1
+        },
+        {
+            "id": 4,
+            "title": "ullamcorper a lacus vestibulum sed",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Sed velit dignissim sodales ut eu sem integer vitae. Suscipit adipiscing bibendum est ultricies integer quis. Nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus.",
+            "albumId": 1
+        },
+        {
+            "id": 5,
+            "title": "sed viverra tellus in hac",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur purus ut faucibus pulvinar. Vitae congue eu consequat ac felis donec. Blandit aliquam etiam erat velit scelerisque in dictum non. Duis ut diam quam nulla porttitor massa.",
+            "albumId": 1
+        },
+        {
+            "id": 6,
+            "title": "sapien et ligula ullamcorper malesuada",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas ultricies mi eget mauris. Lacus laoreet non curabitur gravida. Leo vel fringilla est ullamcorper eget. Habitant morbi tristique senectus et netus et malesuada fames ac.",
+            "albumId": 2
+        },
+        {
+            "id": 7,
+            "title": "tellus elementum sagittis vitae et",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Tellus molestie nunc non blandit massa enim nec dui. Dui ut ornare lectus sit. Ultrices tincidunt arcu non sodales neque sodales ut etiam.",
+            "albumId": 2
+        },
+        {
+            "id": 8,
+            "title": "quis vel eros donec ac",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu turpis egestas. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Habitant morbi tristique senectus et netus. Massa sed elementum tempus egestas.",
+            "albumId": 2
+        },
+        {
+            "id": 9,
+            "title": "mattis aliquam faucibus purus in",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Hendrerit dolor magna eget est lorem ipsum. Duis convallis convallis tellus id interdum. In metus vulputate eu scelerisque felis imperdiet. Tortor dignissim convallis aenean et tortor at risus viverra adipiscing.",
+            "albumId": 3
+        },
+        {
+            "id": 10,
+            "title": "euismod lacinia at quis risus",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem viverra. Interdum posuere lorem ipsum dolor sit amet. Tempus urna et pharetra pharetra massa massa. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero.",
+            "albumId": 4
+        },
+        {
+            "id": 11,
+            "title": "id interdum velit laoreet id",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare suspendisse sed nisi lacus sed viverra tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Vulputate mi sit amet mauris commodo. Ornare lectus sit amet est.",
+            "albumId": 4
+        },
+        {
+            "id": 12,
+            "title": "aliquet bibendum enim facilisis gravida",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam vulputate dignissim suspendisse in est. Nulla malesuada pellentesque elit eget gravida cum. Sit amet justo donec enim. Aliquam purus sit amet luctus venenatis lectus magna.",
+            "albumId": 4
+        },
+        {
+            "id": 13,
+            "title": "imperdiet dui accumsan sit amet",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius duis at consectetur lorem donec massa sapien faucibus et. Ut diam quam nulla porttitor massa. Velit dignissim sodales ut eu sem. Sit amet tellus cras adipiscing enim.",
+            "albumId": 5
+        },
+        {
+            "id": 14,
+            "title": "lorem sed risus ultricies tristique",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus viverra adipiscing at in tellus integer feugiat. Lorem sed risus ultricies tristique nulla aliquet enim. In est ante in nibh mauris cursus mattis molestie a. Convallis tellus id interdum velit laoreet id.",
+            "albumId": 5
+        },
+        {
+            "id": 15,
+            "title": "arcu dui vivamus arcu felis",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam vulputate dignissim suspendisse in est. Nulla malesuada pellentesque elit eget gravida cum. Sit amet justo donec enim. Aliquam purus sit amet luctus venenatis lectus magna.",
+            "albumId": 6
+        },
+        {
+            "id": 16,
+            "title": "arcu bibendum at varius vel",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem viverra. Interdum posuere lorem ipsum dolor sit amet. Tempus urna et pharetra pharetra massa massa. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero.",
+            "albumId": 7
+        },
+        {
+            "id": 17,
+            "title": "elementum sagittis vitae et leo",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu turpis egestas. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Habitant morbi tristique senectus et netus. Massa sed elementum tempus egestas.",
+            "albumId": 8
+        },
+        {
+            "id": 18,
+            "title": "varius sit amet mattis vulputate",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus viverra adipiscing at in tellus integer feugiat. Lorem sed risus ultricies tristique nulla aliquet enim. In est ante in nibh mauris cursus mattis molestie a. Convallis tellus id interdum velit laoreet id.",
+            "albumId": 9
+        },
+        {
+            "id": 19,
+            "title": "et ultrices neque ornare aenean",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur purus ut faucibus pulvinar. Vitae congue eu consequat ac felis donec. Blandit aliquam etiam erat velit scelerisque in dictum non. Duis ut diam quam nulla porttitor massa.",
+            "albumId": 10
+        },
+        {
+            "id": 20,
+            "title": "at auctor urna nunc id",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Tellus molestie nunc non blandit massa enim nec dui. Dui ut ornare lectus sit. Ultrices tincidunt arcu non sodales neque sodales ut etiam.",
+            "albumId": 11
+        },
+        {
+            "id": 21,
+            "title": "suspendisse sed nisi lacus sed",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque mauris pellentesque pulvinar pellentesque. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Nullam ac tortor vitae purus faucibus ornare suspendisse.",
+            "albumId": 11
+        },
+        {
+            "id": 22,
+            "title": "mattis enim ut tellus elementum",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu turpis egestas. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Habitant morbi tristique senectus et netus. Massa sed elementum tempus egestas.",
+            "albumId": 12
+        },
+        {
+            "id": 23,
+            "title": "sagittis purus sit amet volutpat",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At augue eget arcu dictum varius duis at consectetur. Quisque egestas diam in arcu cursus. In tellus integer feugiat scelerisque varius. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+            "albumId": 13
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "name": "Adil",
+            "email": "adil@example.com",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat.",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "name": "Hamish ",
+            "email": "hamish@example.com",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "postId": 1
+        },
+        {
+            "id": 3,
+            "name": "Xander",
+            "email": "xander@example.com",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "postId": 1
+        },
+        {
+            "id": 4,
+            "name": "Layton",
+            "email": "layton@example.com",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris pellentesque pulvinar pellentesque habitant.",
+            "postId": 6
+        },
+        {
+            "id": 5,
+            "name": "Ioan",
+            "email": "ioan@example.com",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi.",
+            "postId": 6
+        },
+        {
+            "id": 6,
+            "name": "Mark",
+            "email": "mark@example.com",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat.",
+            "postId": 21
+        }
+    ],
+    "photos": [
+        {
+            "id": 1,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://via.placeholder.com/600/92c952",
+            "thumbnailUrl": "https://via.placeholder.com/50/92c952",
+            "albumId": 1
+        },
+        {
+            "id": 2,
+            "title": "reprehenderit est deserunt velit ipsam",
+            "url": "https://via.placeholder.com/600/771796",
+            "thumbnailUrl": "https://via.placeholder.com/50/771796",
+            "albumId": 2
+        },
+        {
+            "id": 3,
+            "title": "officia porro iure quia iusto qui ipsa ut modi",
+            "url": "https://via.placeholder.com/600/24f355",
+            "thumbnailUrl": "https://via.placeholder.com/50/24f355",
+            "albumId": 3
+        },
+        {
+            "id": 4,
+            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+            "url": "https://via.placeholder.com/600/d32776",
+            "thumbnailUrl": "https://via.placeholder.com/50/d32776",
+            "albumId": 4
+        },
+        {
+            "id": 5,
+            "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "url": "https://via.placeholder.com/600/f66b97",
+            "thumbnailUrl": "https://via.placeholder.com/50/f66b97",
+            "albumId": 5
+        },
+        {
+            "id": 6,
+            "title": "accusamus ea aliquid et amet sequi nemo",
+            "url": "https://via.placeholder.com/600/56a8c2",
+            "thumbnailUrl": "https://via.placeholder.com/50/56a8c2",
+            "albumId": 6
+        },
+        {
+            "id": 7,
+            "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+            "url": "https://via.placeholder.com/600/b0f7cc",
+            "thumbnailUrl": "https://via.placeholder.com/50/b0f7cc",
+            "albumId": 7
+        },
+        {
+            "id": 8,
+            "title": "aut porro officiis laborum odit ea laudantium corporis",
+            "url": "https://via.placeholder.com/600/54176f",
+            "thumbnailUrl": "https://via.placeholder.com/50/54176f",
+            "albumId": 8
+        },
+        {
+            "id": 9,
+            "title": "qui eius qui autem sed",
+            "url": "https://via.placeholder.com/600/51aa97",
+            "thumbnailUrl": "https://via.placeholder.com/50/51aa97",
+            "albumId": 9
+        },
+        {
+            "id": 10,
+            "title": "beatae et provident et ut vel",
+            "url": "https://via.placeholder.com/600/810b14",
+            "thumbnailUrl": "https://via.placeholder.com/50/810b14",
+            "albumId": 10
+        },
+        {
+            "id": 11,
+            "title": "nihil at amet non hic quia qui",
+            "url": "https://via.placeholder.com/600/1ee8a4",
+            "thumbnailUrl": "https://via.placeholder.com/50/1ee8a4",
+            "albumId": 11
+        },
+        {
+            "id": 12,
+            "title": "mollitia soluta ut rerum eos aliquam consequatur perspiciatis maiores",
+            "url": "https://via.placeholder.com/600/66b7d2",
+            "thumbnailUrl": "https://via.placeholder.com/50/66b7d2",
+            "albumId": 12
+        },
+        {
+            "id": 13,
+            "title": "repudiandae iusto deleniti rerum",
+            "url": "https://via.placeholder.com/600/197d29",
+            "thumbnailUrl": "https://via.placeholder.com/50/197d29",
+            "albumId": 13
+        }
+    ]
+}
