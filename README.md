@@ -1,16 +1,16 @@
 # SiggaBlog.API
 
 ## Objective
-Create to Fake API to host in [Heroku](https://www.heroku.com/)
+Create a Fake API to host in [Heroku](https://www.heroku.com/)
 
 ## Packages used
 * json-server 0.15.0
 
-### How to use
+## How to use
 * npm install - To install all dependencies
-* npm start
+* npm start - To start localy api
 
-### API Address
+## API Address
 https://siggaapi.herokuapp.com/
 
 ## About
